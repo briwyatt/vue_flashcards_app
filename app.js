@@ -1,9 +1,40 @@
 const cards = [
   {
-    front: 'Created satellite orbit analyzation software for NASA',
-    back: 'Dr. Evelyn Boyd Granville',
+    front: 'Frankfort',
+    back: 'Kentucky',
     flipped: false,
-  }
+  },
+  {
+    front: 'Montgomery',
+    back: 'Alabama',
+    flipped: false,
+  },
+  {
+    front: 'Springfield',
+    back: 'Illinois',
+    flipped: false,
+  },
+  {
+    front: 'Helena',
+    back: 'Montana',
+    flipped: false,
+  },
+  {
+    front: 'Providence',
+    back: 'Rhode Island',
+    flipped: false,
+  },
+  {
+    front: 'Columbia',
+    back: 'South Carolina',
+    flipped: false,
+  },
+  {
+    front: 'Pierre',
+    back: 'South Dakota',
+    flipped: false,
+  },
+
 ];
 
 new Vue({
